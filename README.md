@@ -1,5 +1,7 @@
 # Babel-prac
 - IE11でfetch&Promise相当の動作をするようにトランスパイルしたもの
+  - Chrome：fetchで通信
+  - IE：XHRで通信
   
 install
 ```
